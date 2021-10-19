@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benlamb95
-- 👀 I’m interested in Football
-- 🌱 I’m currently learning Full stack Developer
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Football mainly Manchester United (unfortuantely), the gym and learning new skills.
+- 🌱 I’m currently learning to become a Full stack Developer thrrough the Learning people via Code Institute.
+- 💞️ I’m looking to collaborate on all things
 - 📫 How to reach me Benl1995@hotmail.co.uk
 
 <!---
