@@ -2,9 +2,7 @@
 - 👀 I’m interested in the tech industry hoping to get a Junior role. I love Football, the gym and my dog!
 - 🌱 I’m currently learning to become a Full stack Developer thrrough the Learning people via Code Institute.     
  *** First Project: HTML and CSS ✅ Result: Merit  
- 
  *** Second Project: HTML, CSS and JavaScript  ✅ Result: Merit  
- 
  *** Third Project: Python ⏳  
  
 - 💞️ I’m looking to collaborate on all things Code. Im currently working with JavaScript and will be moving onto Python.
