@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benlamb95
 - 👀 I’m interested in the tech industry hoping to get a Junior role. I love Football, the gym and my dog!
-- 🌱 I’m currently learning to become a Full stack Developer thrrough the Learning people via Code Institute.     
+- 🌱 I’m currently learning to become a Full stack Developer through the Learning people via Code Institute.     
  *** First Project: HTML and CSS ✅ Result: Merit  
  *** Second Project: HTML, CSS and JavaScript  ✅ Result: Merit  
  *** Third Project: Python ✅ Result: Merit  
