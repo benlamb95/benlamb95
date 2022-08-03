@@ -4,7 +4,7 @@
  *** First Project: HTML and CSS ✅ Result: Merit  
  *** Second Project: HTML, CSS and JavaScript  ✅ Result: Merit  
  *** Third Project: Python ✅ Result: Merit  
- *** Fourth Project: Full Stack ✅ Result: Pass 
+ *** Fourth Project: Full Stack ✅ Result: Pass   
  *** Fifth Project: Predictive analytics & Machine Learning 
  
  
