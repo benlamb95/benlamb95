@@ -8,7 +8,7 @@
  *** Fifth Project: Predictive analytics & Machine Learning 
  
  
-- 💞️ I’m looking to collaborate on all things Code. Im currently working with JavaScript and will be moving onto Python.
+- 💞️ I’m looking to collaborate on all things Code. Im currently on data analyitics and machine learning with a view to go into a data scientist role or similar. 
 - 📫 How to reach me Benl1995@hotmail.co.uk
 
 <!---
