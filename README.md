@@ -5,7 +5,8 @@
  *** Second Project: HTML, CSS and JavaScript  ✅ Result: Merit  
  *** Third Project: Python ✅ Result: Merit  
  *** Fourth Project: Full Stack ✅ Result: Pass   
- *** Fifth Project: Predictive analytics & Machine Learning 
+ *** Fifth Project: Predictive analytics & Machine Learning  ✅ Result: Merit  
+ *** Final Result: MERIT ✅ 
  
  
 - 💞️ I’m looking to collaborate on all things Code. Im currently on data analyitics and machine learning with a view to go into a data scientist role or similar. 
